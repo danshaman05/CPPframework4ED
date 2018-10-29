@@ -14,9 +14,5 @@ Príkladom takéhoto použitia je napríklad Arduino ekosystém, ktorý práve p
 ### Cieľ
 Vytvoriť framework pre tvorbu embedded aplikácií v C++. Framework by mal obsahovať základné štruktúry a funkcionalitu pre tvorbu jednoduchých embedded aplikácií, ako aj konfiguráciu, nastavenia kompilátora a linkera pre nejaký vybraný embedded systém, aby používateľovi umožňoval ľahko skompilovať a nasadiť program.
 
-
-### Contact
+### Kontakt
 dany05@email.cz
-
-
-
