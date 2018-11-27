@@ -15,11 +15,12 @@ Príkladom takéhoto použitia je napríklad Arduino ekosystém, ktorý práve p
 Vytvoriť framework pre tvorbu embedded aplikácií v C++. Framework by mal obsahovať základné štruktúry a funkcionalitu pre tvorbu jednoduchých embedded aplikácií, ako aj konfiguráciu, nastavenia kompilátora a linkera pre nejaký vybraný embedded systém, aby používateľovi umožňoval ľahko skompilovať a nasadiť program.
 
 ### Zdroje
+#### C++ frameworky
 https://github.com/PerMalmberg/Smooth
 
 https://www.etlcpp.com/home.html
 
-#### C++
+#### C++ všeobecne
 dokumentácia: http://www.cplusplus.com/
 
 tutoriál: https://www.tutorialspoint.com/cplusplus/
