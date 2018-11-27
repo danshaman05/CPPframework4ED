@@ -16,9 +16,13 @@ Vytvoriť framework pre tvorbu embedded aplikácií v C++. Framework by mal ob
 
 ### Zdroje
 #### C++ frameworky
-https://github.com/PerMalmberg/Smooth
 
-https://www.etlcpp.com/home.html
+[Smooth](https://github.com/PerMalmberg/Smooth "C++ framework for writing applications based on Espressif's ESP-IDF.")
+
+[ETL](https://www.etlcpp.com/home.html "A C++ template library for embedded applications")
+
+[ESP-IDF](https://github.com/espressif/esp-idf "Espressif IoT Development Framework for the ESP32 chip.")
+
 
 #### C++ všeobecne
 dokumentácia: http://www.cplusplus.com/
