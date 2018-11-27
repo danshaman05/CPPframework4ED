@@ -29,5 +29,8 @@ dokumentácia: http://www.cplusplus.com/
 
 tutoriál: https://www.tutorialspoint.com/cplusplus/
 
+#### Promises
+[Javascript example](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) 
+
 ### Kontakt
 dany05@email.cz
