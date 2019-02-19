@@ -34,5 +34,9 @@ tutoriál: https://www.tutorialspoint.com/cplusplus/
 
 [Javascript / Using promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises "Tutorial")
 
+### Východisková kapitola
+Východiskovú kapitolu si môžete stiahnuť na githubu stránke projektu: [Východisková kapitola](https://github.com/danshaman05/CPPframework4ED/blob/master/BakalarskaPraca.pdf)
+
+
 ### Kontakt
 dany05@email.cz
