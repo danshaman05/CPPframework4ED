@@ -37,6 +37,22 @@ tutoriál: https://www.tutorialspoint.com/cplusplus/
 ### Východisková kapitola
 Východiskovú kapitolu si môžete stiahnuť na githubu stránke projektu: [Východisková kapitola](https://github.com/danshaman05/CPPframework4ED/blob/master/BakalarskaPraca.pdf)
 
+### Denník:
+1. týždeň 18. február - 24. február 2019 - Úprava východiskovej kapitoly podľa pripomienok. 
+2. týždeň 25. február - 03. marec 2019 - Štúdium zdrojov.
+3. týždeň 04. marec - 10. marec 2019 - 
+4. týždeň 11. marec - 16. marec 2019 - 
+5. týždeň 17. marec - 24. marec 2019 - 
+6. týždeň 25. marec - 31. marec 2019 - 
+7. týždeň 01. apríl - 07. apríl 2019 - 
+8. týždeň 08. apríl - 14. apríl 2019 - 
+9. týždeň 15. apríl - 21. apríl 2019 - 
+10. týždeň 22. apríl - 28. apríl 2019 - 
+11. týždeň 29. apríl - 05. máj 2019 - 
+12. týždeň 06. máj - 12. máj 2019 - 
+13. týždeň 13. máj - 19. máj 2019 - 
+14. týždeň 20. máj - 26. máj 2019 - 
+15. týždeň 27. máj - 31. máj 2019 -
 
 ### Kontakt
 dany05@email.cz
