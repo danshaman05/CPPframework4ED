@@ -39,9 +39,9 @@ Východiskovú kapitolu si môžete stiahnuť na githubu stránke projektu: [Vý
 
 ### Denník:
 1. týždeň 18. február - 24. február 2019 - Úprava východiskovej kapitoly podľa pripomienok. 
-2. týždeň 25. február - 03. marec 2019 - Štúdium a testovanie zdroja - frameworku ESP-IDF.
-3. týždeň 04. marec - 10. marec 2019 - Štúdium a testovanie zdroja - frameworku Smooth.
-4. týždeň 11. marec - 16. marec 2019 - 
+2. týždeň 25. február - 03. marec 2019 - Štúdium a testovanie zdroja; framework ESP-IDF.
+3. týždeň 04. marec - 10. marec 2019 - Štúdium a testovanie zdroja; framework Smooth.
+4. týždeň 11. marec - 16. marec 2019 - Štúdium a testovanie zdroja; framework Smooth.
 5. týždeň 17. marec - 24. marec 2019 - 
 6. týždeň 25. marec - 31. marec 2019 - 
 7. týždeň 01. apríl - 07. apríl 2019 - 
